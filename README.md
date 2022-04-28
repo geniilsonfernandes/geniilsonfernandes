@@ -33,7 +33,6 @@
 
 Me chamo Genilson Fernandes, atualmente estudante de desenvolvimento web,  me considero um bom autodidata que gosta de aprender e se sente desafiado para descobrir novas coisas, estou migrando do design para Front End que sempre foi um universo que sempre admirei e me sinto realizado quando estou codando meus projetos pessoais.
 
-⚡estudando agora NodeJs e Typescript
   
   
   
