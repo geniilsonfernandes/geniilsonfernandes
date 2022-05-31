@@ -1,5 +1,5 @@
 
-<h2>Desenvolvedor Front-end/Designer - Javascript | React | CSS | HTML | FIGMA</h1>
+<h2>Desenvolvedor Front-end - Javascript | React | CSS | HTML | FIGMA</h1>
   <div>
     <a href="https://github.com/geniilsonfernandes">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geniilsonfernandes&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
