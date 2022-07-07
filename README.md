@@ -1,15 +1,14 @@
 
-<h2>Desenvolvedor Front-end - Javascript | React | CSS | HTML | FIGMA</h1>
-  <div>
-    <a href="https://github.com/geniilsonfernandes">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geniilsonfernandes&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geniilsonfernandes&layout=compact&langs_count=7&theme=dark" />
-   </div>
-  <div>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<h2>✌️ Olá, meu nome é Genilson Fernandes, este é meu GitHub</h1>
+<div>
+  Atualmente desenvolvo projetos front-end e sou estudante de análise e desenvolvimento de sistemas.
+</div>
+ <h2>Tecnologias que utilizo</h2>
+ <div>
+  <img align="center" alt="ge-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="ge-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="ge-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="ge-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
   ##
