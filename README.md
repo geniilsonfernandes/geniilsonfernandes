@@ -38,24 +38,6 @@
   </a>
 </div>
 
-## **GitHub Statistics**
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?geniilsonfernandes=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<a href="https://github.com/geniilsonfernandes
-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geniilsonfernandes
-&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/geniilsonfernandes
-">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=geniilsonfernandes
-&show_icons=true&theme=dracula&line_height=27" alt="geniilsonfernandes
- github stats"/>
-</a>
-
 <h2> 👋 </h2>
 Te convido a conhecer e acompanhar de perto o desenvolvimento do meu trabalho:
 <p>
