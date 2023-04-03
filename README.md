@@ -1,19 +1,24 @@
 
 <h2>✌️ Olá, meu nome é Genilson Fernandes, este é meu GitHub</h2>
+<h3 >
+ Sou um desenvolvedor frontend com conhecimento avançado e domínio em criação de layouts atraentes, implementação de funcionalidades, integrações com backend e serviços externos, além de uma forte capacidade em garantir a performance e usabilidade dos projetos. 
+</h3>
 <div>
-  ✔️ Atualmente desenvolvo projetos front-end e estou cursando Análise e desenvolvimento de sistemas.
+  <br />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
+  <img src="https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook">
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components">
+  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Chakra UI">
+  <img src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" alt="Testing Library">
 </div>
- <h2>Tecnologias que utilizo</h2>
- <div>
-  <img align="center" alt="ge-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ge-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="ge-jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img align="center" alt="ge-next" height="30" width="40" src="https://www.creative-tim.com/assets/icon-nextjs-2a1bcdd2079d47a4f10c5620632a7994b8544ca0d5e5f11049e9c542142ca82b.jpg" />
-  <img align="center" alt="ge-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="ge-storybook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
-  <img align="center" alt="ge-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="ge-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-</div>
+ 
   <h2>☎️ Contato </h2>
 <div style="display: inline;">
   <a href="https://www.instagram.com/geecods/" target="_blank">
@@ -38,13 +43,5 @@
   </a>
 </div>
 
-<h2> 👋 </h2>
-Te convido a conhecer e acompanhar de perto o desenvolvimento do meu trabalho:
-<p>
-Portfólio: https://workfolio-ge.vercel.app/
-</p>
-
-
-  
   
   
