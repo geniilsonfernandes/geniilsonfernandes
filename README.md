@@ -39,7 +39,9 @@
   | Nome do Projeto | Linguagens |
   |------|-------|
   | [weather-react-app](https://github.com/geniilsonfernandes/weather-react-app) | Reactjs + Styled-Components + Jest
+  | [overall-rating](https://github.com/geniilsonfernandes/overall-rating) | Reactjs + Styled-Components + Jest
   | [Color-palette](https://github.com/geniilsonfernandes/color-palette) | Reactjs + Styled-Components
+  
   
 </details> 
   
