@@ -1,10 +1,11 @@
 
 <h2>✌️ Olá, meu nome é Genilson Fernandes, este é meu GitHub</h2>
-<h3 >
- Sou um desenvolvedor frontend com conhecimento avançado e domínio em criação de layouts atraentes, implementação de funcionalidades, integrações com backend e serviços externos, além de uma forte capacidade em garantir a performance e usabilidade dos projetos. 
-</h3>
+<p>
+ Olá! Sou um desenvolvedor frontend com conhecimento avançado e expertise em criar layouts atraentes, implementar funcionalidades inovadoras e integrar com sucesso o backend e serviços externos. Meu principal objetivo é garantir a performance e a usabilidade dos projetos, criando experiências excepcionais para os usuários.
+</p>
+<hr />
 <div>
-  <br />
+ <h3>📌Habilidades </h3>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -18,6 +19,31 @@
   <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Chakra UI">
   <img src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" alt="Testing Library">
 </div>
+  
+  <hr />
+  <h3>📌Meus projetos </h3>
+ 
+ <details open>
+  <summary><h4>🚩 Novos </h4></summary>
+  
+  | Nome do Projeto | Linguagens |
+  |------|-------|
+  | [Dashschool](https://github.com/geniilsonfernandes/dashschool) | Next.js + Typescript + Prisma + PostgresSql + Docker + Reactjs +Styled-Components
+  | [Habit](https://github.com/geniilsonfernandes/habit) | Next.js + Typescript + Reactjs +Styled-Components
+  
+</details> 
+
+<details open>
+  <summary><h4>🚩 Projetos com react</h4></summary>
+  
+  | Nome do Projeto | Linguagens |
+  |------|-------|
+  | [weather-react-app](https://github.com/geniilsonfernandes/weather-react-app) | Reactjs + Styled-Components + Jest
+  | [Color-palette](https://github.com/geniilsonfernandes/color-palette) | Reactjs + Styled-Components
+  
+</details> 
+  
+ <br />
  
   <h2>☎️ Contato </h2>
 <div style="display: inline;">
