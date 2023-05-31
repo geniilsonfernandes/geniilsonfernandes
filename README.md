@@ -29,7 +29,7 @@
   | Nome do Projeto | Linguagens |
   |------|-------|
   | [Dashschool](https://github.com/geniilsonfernandes/dashschool) | Next.js + Typescript + Prisma + PostgresSql + Docker + Reactjs +Styled-Components
-  | [Habit-app](https://github.com/geniilsonfernandes/habit-app) | Next.js + Typescript + Reactjs +Styled-Components
+  | [Habit-app](https://github.com/geniilsonfernandes/habbit-app) | Next.js + Typescript + Reactjs +Styled-Components
   
 </details> 
 
