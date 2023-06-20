@@ -1,5 +1,11 @@
 
+ <img
+  style="width: 150px;height: 150px; display: inline-block;border-radius: 73px;"
+  src="https://thumbs.gfycat.com/BadBeneficialCrow-size_restricted.gif" />
+
 <h2>✌️ Olá, meu nome é Genilson Fernandes, este é meu GitHub</h2>
+
+
 <p>
  Olá! Sou um desenvolvedor frontend com conhecimento avançado e expertise em criar layouts atraentes, implementar funcionalidades inovadoras e integrar com sucesso o backend e serviços externos. Meu principal objetivo é garantir a performance e a usabilidade dos projetos, criando experiências excepcionais para os usuários.
 </p>
