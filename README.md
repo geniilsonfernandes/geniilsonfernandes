@@ -36,18 +36,33 @@
   |------|-------|
   | [Dashschool](https://github.com/geniilsonfernandes/dashschool) | Next.js + Typescript + Prisma + PostgresSql + Docker + Reactjs +Styled-Components
   | [Habit-app](https://github.com/geniilsonfernandes/habbit-app) | Next.js + Typescript + Reactjs +Styled-Components
+  | [todocollection_api](https://github.com/geniilsonfernandes/todocollection_api) | node + express + typeorm + docker + ts + yup
   
 </details> 
 
 <details open>
-  <summary><h4>🚩 Projetos com react</h4></summary>
+  <summary><h4>🚩 Front end</h4></summary>
   
   | Nome do Projeto | Linguagens |
   |------|-------|
   | [weather-react-app](https://github.com/geniilsonfernandes/weather-react-app) | Reactjs + Styled-Components + Jest
   | [overall-rating](https://github.com/geniilsonfernandes/overall-rating) | Reactjs + Styled-Components + Jest
   | [Color-palette](https://github.com/geniilsonfernandes/color-palette) | Reactjs + Styled-Components
+
+
+
+
+  https://github.com/geniilsonfernandes/todocollection_api
   
+</details> 
+
+
+ <details open>
+  <summary><h4>🚩 Backend </h4></summary>
+  
+  | Nome do Projeto | Linguagens |
+  |------|-------|
+  | [todocollection_api](https://github.com/geniilsonfernandes/todocollection_api) | node + express + typeorm + docker + ts + yup
   
 </details> 
   
