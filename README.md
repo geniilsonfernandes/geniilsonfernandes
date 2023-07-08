@@ -49,10 +49,6 @@
   | [overall-rating](https://github.com/geniilsonfernandes/overall-rating) | Reactjs + Styled-Components + Jest
   | [Color-palette](https://github.com/geniilsonfernandes/color-palette) | Reactjs + Styled-Components
 
-
-
-
-  https://github.com/geniilsonfernandes/todocollection_api
   
 </details> 
 
