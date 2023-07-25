@@ -1,7 +1,8 @@
 
  <img
-  style="width: 150px;height: 150px; display: inline-block;border-radius: 73px;"
-  src="https://thumbs.gfycat.com/BadBeneficialCrow-size_restricted.gif" />
+  style="width: 100%;height: 150px; display: inline-block;border-radius: 73px;"
+  src="https://media.tenor.com/FDDaryOYNp0AAAAd/retro-city.gif" />
+  
 
 <h2>✌️ Olá, meu nome é Genilson Fernandes, este é meu GitHub</h2>
 
