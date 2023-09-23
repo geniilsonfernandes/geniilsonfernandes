@@ -56,9 +56,11 @@
 
  <details open>
   <summary><h4>🚩 Backend </h4></summary>
-  
+
+   
   | Nome do Projeto | Linguagens |
   |------|-------|
+  | [todocollection_api](https://github.com/geniilsonfernandes/todocollection_api) | node + fastify + docker + ts + zod + storage
   | [todocollection_api](https://github.com/geniilsonfernandes/todocollection_api) | node + express + typeorm + docker + ts + yup
   
 </details> 
