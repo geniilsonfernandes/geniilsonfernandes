@@ -37,7 +37,7 @@
   |------|-------|
   | [Dashschool](https://github.com/geniilsonfernandes/dashschool) | Next.js + Typescript + Prisma + PostgresSql + Docker + Reactjs +Styled-Components
   | [Habit-app](https://github.com/geniilsonfernandes/habbit-app) | Next.js + Typescript + Reactjs +Styled-Components
-  | [todocollection_api](https://github.com/geniilsonfernandes/todocollection_api) | node + express + typeorm + docker + ts + yup
+  | [findafriend_api](https://github.com/geniilsonfernandes/findafriend_api) | node + fastify + docker + ts + zod + storage
   
 </details> 
 
@@ -60,7 +60,7 @@
    
   | Nome do Projeto | Linguagens |
   |------|-------|
-  | [todocollection_api](https://github.com/geniilsonfernandes/todocollection_api) | node + fastify + docker + ts + zod + storage
+  | [findafriend_api](https://github.com/geniilsonfernandes/findafriend_api) | node + fastify + docker + ts + zod + storage
   | [todocollection_api](https://github.com/geniilsonfernandes/todocollection_api) | node + express + typeorm + docker + ts + yup
   
 </details> 
