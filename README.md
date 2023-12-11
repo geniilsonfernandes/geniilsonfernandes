@@ -16,6 +16,11 @@
 <p>
 Estou sempre empenhado em aprender e crescer profissionalmente!
 </p>
+
+<a href="https://dev.to/" >
+BLOG
+ 
+</a>
 <hr />
 <div>
  <h3>📌Habilidades </h3>
