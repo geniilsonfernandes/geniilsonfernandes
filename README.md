@@ -8,7 +8,13 @@
 
 
 <p>
- Olá! Sou um desenvolvedor frontend com conhecimento avançado e expertise em criar layouts atraentes, implementar funcionalidades inovadoras e integrar com sucesso o backend e serviços externos. Meu principal objetivo é garantir a performance e a usabilidade dos projetos, criando experiências excepcionais para os usuários.
+ Olá! Sou um profissional apaixonado por tecnologia, meu contato com tecnologia começou  designer gráfico. 
+</p>
+<p>
+ Minha jornada no desenvolvimento me proporcionou uma valiosa experiência na compreensão de processos e na resolução de problemas complexos. Ao longo desse tempo, busquei constantemente entregar soluções de alta qualidade, Sempre estou em busca de aprimorar minhas habilidades técnicas e também minhas soft skills.
+</p>
+<p>
+Estou sempre empenhado em aprender e crescer profissionalmente!
 </p>
 <hr />
 <div>
@@ -29,26 +35,32 @@
   
   <hr />
   <h3>📌Meus projetos </h3>
+
+  <a href="https://github.com/geniilsonfernandes/moneyguard"> 
+  <img src="https://res.cloudinary.com/dbpayojb3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1702331389/money_banner_sspgbq.jpg?_s=public-apps" />
+  </a>
  
  <details open>
   <summary><h4>🚩 Novos </h4></summary>
   
-  | Nome do Projeto | Linguagens |
+  | Nome do Projeto | stack |
   |------|-------|
-  | [Dashschool](https://github.com/geniilsonfernandes/dashschool) | Next.js + Typescript + Prisma + PostgresSql + Docker + Reactjs +Styled-Components
-  | [Habit-app](https://github.com/geniilsonfernandes/habbit-app) | Next.js + Typescript + Reactjs +Styled-Components
-  | [findafriend_api](https://github.com/geniilsonfernandes/findafriend_api) | node + fastify + docker + ts + zod + storage
+  | [https://github.com/geniilsonfernandes/dashschool](https://github.com/geniilsonfernandes/moneyguard-api) | API
+  | [https://github.com/geniilsonfernandes/dashschool](https://github.com/geniilsonfernandes/moneyguard) | Full stack app
+  | [Dashschool](https://github.com/geniilsonfernandes/dashschool) | Full stack app
+  | [Habit-app](https://github.com/geniilsonfernandes/habbit-app) | Full stack app
+  | [findafriend_api](https://github.com/geniilsonfernandes/findafriend_api) | API
   
 </details> 
 
 <details open>
   <summary><h4>🚩 Front end</h4></summary>
   
-  | Nome do Projeto | Linguagens |
+  | Nome do Projeto | stack |
   |------|-------|
-  | [weather-react-app](https://github.com/geniilsonfernandes/weather-react-app) | Reactjs + Styled-Components + Jest
-  | [overall-rating](https://github.com/geniilsonfernandes/overall-rating) | Reactjs + Styled-Components + Jest
-  | [Color-palette](https://github.com/geniilsonfernandes/color-palette) | Reactjs + Styled-Components
+  | [weather-react-app](https://github.com/geniilsonfernandes/weather-react-app) | Full stack app
+  | [overall-rating](https://github.com/geniilsonfernandes/overall-rating) | Web app
+  | [Color-palette](https://github.com/geniilsonfernandes/color-palette) |  Web app
 
   
 </details> 
@@ -58,10 +70,10 @@
   <summary><h4>🚩 Backend </h4></summary>
 
    
-  | Nome do Projeto | Linguagens |
+  | Nome do Projeto | stack |
   |------|-------|
-  | [findafriend_api](https://github.com/geniilsonfernandes/findafriend_api) | node + fastify + docker + ts + zod + storage
-  | [todocollection_api](https://github.com/geniilsonfernandes/todocollection_api) | node + express + typeorm + docker + ts + yup
+  | [findafriend_api](https://github.com/geniilsonfernandes/findafriend_api) |API
+  | [todocollection_api](https://github.com/geniilsonfernandes/todocollection_api) | API
   
 </details> 
   
