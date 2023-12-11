@@ -8,7 +8,7 @@
 
 
 <p>
- Olá! Sou um profissional apaixonado por tecnologia, meu contato com tecnologia começou  designer gráfico. 
+ Olá! Sou um profissional apaixonado por tecnologia, meu contato com tecnologia começou  designer gráfico. Tive a oportunidade de mergulhar no universo do desenvolvimento web, onde pude participar e desenvolver minhas habilidades em UX/UI. Hoje posso aproveita todo esse conhecimento como designer no mundo do desenvolvimento
 </p>
 <p>
  Minha jornada no desenvolvimento me proporcionou uma valiosa experiência na compreensão de processos e na resolução de problemas complexos. Ao longo desse tempo, busquei constantemente entregar soluções de alta qualidade, Sempre estou em busca de aprimorar minhas habilidades técnicas e também minhas soft skills.
