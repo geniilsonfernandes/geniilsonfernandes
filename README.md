@@ -45,8 +45,8 @@ Estou sempre empenhado em aprender e crescer profissionalmente!
   
   | Nome do Projeto | stack |
   |------|-------|
-  | [https://github.com/geniilsonfernandes/dashschool](https://github.com/geniilsonfernandes/moneyguard-api) | API
-  | [https://github.com/geniilsonfernandes/dashschool](https://github.com/geniilsonfernandes/moneyguard) | Full stack app
+  | [Money guard api](https://github.com/geniilsonfernandes/moneyguard-api) | API
+  | [Money guard](https://github.com/geniilsonfernandes/moneyguard) | Full stack app
   | [Dashschool](https://github.com/geniilsonfernandes/dashschool) | Full stack app
   | [Habit-app](https://github.com/geniilsonfernandes/habbit-app) | Full stack app
   | [findafriend_api](https://github.com/geniilsonfernandes/findafriend_api) | API
