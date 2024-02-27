@@ -44,9 +44,12 @@ BLOG
   <a href="https://github.com/geniilsonfernandes/moneyguard"> 
   <img src="https://res.cloudinary.com/dbpayojb3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1702331389/money_banner_sspgbq.jpg?_s=public-apps" />
   </a>
+  <a href="https://github.com/geniilsonfernandes/use-pagination"> 
+   <img src="https://res.cloudinary.com/dbpayojb3/image/upload/v1709052584/banner_jpgyds.png" />
+  </a>
  
  <details open>
-  <summary><h4>🚩 Novos </h4></summary>
+   <summary><h4>🚩 Novos </h4></summary>
   
   | Nome do Projeto | stack |
   |------|-------|
