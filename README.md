@@ -13,7 +13,7 @@ Desenvolvedor Frontend com uma formação em design. Minha jornada profissional 
 
 ## Algumas linguagens e ferramentas que conheço
 
-[![](https://skillicons.dev/icons?i=c,cpp,python,ts,haskell,react,flutter,nestjs,nextjs,markdown,latex,docker)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=go,ts,react,flutter,nestjs,nextjs,markdown,docker,git,graphql,jest,laravel)](https://skillicons.dev)
 
 
 ---
