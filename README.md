@@ -21,6 +21,9 @@ Desenvolvedor Frontend com uma formação em design. Minha jornada profissional 
 ### 🚀 Projetos  
 Aqui estão alguns dos projetos que desenvolvi:
 
+
+- [🔗 **Frontend lab**](https://github.com/geniilsonfernandes/frontend-lab) - Um laboratório de experimentação para conceitos avançados de frontend, testes e padrões de design. 
+- [🔗 **Estimou tech**](https://github.com/geniilsonfernandes/estimou) - Plataforma para criação de orçamentos dinâmicos e personalizados, permitindo que usuários gerem estimativas profissionais de forma rápida e eficiente.
 - [🔗 **Pango | Shopping List**](https://github.com/geniilsonfernandes/pango-front-end)   – Aplicativo de lista de compras desenvolvido para simplificar a experiência de compra.
 
 
