@@ -1,38 +1,49 @@
+<h2 align="center">✌️ Olá, meu nome é Genilson Fernandes — Bem-vindo ao meu GitHub</h2>
 
-<h2>✌️ Olá, meu nome é Genilson Fernandes, este é meu GitHub</h2>
-
-### Sobre mim  
-Desenvolvedor Frontend com uma formação em design. Minha jornada profissional é criar experiências digitais significativas e funcionais.
-
-💼 Com experiência valiosa na Beuni Tech e na Teamsoft, contribuí para o desenvolvimento de soluções robustas e inovadoras. Meu compromisso em resolver problemas e implementar novas funcionalidades tem sido constante em cada projeto em que estive envolvido.
-
-🚀 Ao longo dos anos, aprimorei minha compreensão de processos e resolução de problemas complexos, sempre buscando entregar soluções de alta qualidade. Estou empenhado em aprender e crescer profissionalmente, buscando constantemente aprimorar minhas habilidades técnicas e soft skills.
+<p align="center">
+  Desenvolvedor <strong>Front-End & Mobile Pleno</strong> — apaixonado por criar interfaces funcionais, acessíveis e intuitivas.
+</p>
 
 ---
 
+## 👨‍💻 Sobre mim  
+Desenvolvedor Front-End & Mobile com background em design, sempre focado em criar experiências digitais que resolvem problemas reais e entregam valor para as pessoas.
 
-## Algumas linguagens e ferramentas que conheço
-
-[![](https://skillicons.dev/icons?i=go,ts,react,flutter,nestjs,nextjs,markdown,docker,git,graphql,jest,laravel)](https://skillicons.dev)
-
-
----
-
-### 🚀 Projetos  
-Aqui estão alguns dos projetos que desenvolvi:
-
-
-- [🔗 **Frontend lab**](https://github.com/geniilsonfernandes/frontend-lab) - Um laboratório de experimentação para conceitos avançados de frontend, testes e padrões de design. 
-- [🔗 **Estimou tech**](https://github.com/geniilsonfernandes/estimou) - Plataforma para criação de orçamentos dinâmicos e personalizados, permitindo que usuários gerem estimativas profissionais de forma rápida e eficiente.
-- [🔗 **Pango | Shopping List**](https://github.com/geniilsonfernandes/pango-front-end)   – Aplicativo de lista de compras desenvolvido para simplificar a experiência de compra.
-
+💼 Atuei como Desenvolvedor Pleno na **Beuni Tech** e **Teamsoft**, construindo funcionalidades, definindo padrões de arquitetura, escrevendo testes e contribuindo para produtos robustos e escaláveis.  
+🎨 Minha formação em design me ajuda a criar interfaces consistentes, acessíveis e focadas no usuário.  
+🚀 Estou sempre estudando novas tecnologias, boas práticas, padrões de projeto e arquiteturas modernas.
 
 ---
 
-### 📝 Blog & Conteúdo  
-Escrevo sobre desenvolvimento web no [meu blog](https://dev.to/geniilsonfernandes). Alguns dos meus posts recentes: 
+## 🧰 Tecnologias e Ferramentas
 
-- [**🔹 Trabalhando e otimizando testes com mocks de componentes**](https://dev.to/geniilsonfernandes/trabalhando-e-otimizando-t-testes-com-mocks-de-componentes-1ckm)
+<div align="center">
+
+[![](https://skillicons.dev/icons?i=flutter,react,nextjs,ts,js,go,nestjs,postgres,mongo,docker,git,graphql,jest,figma,markdown)](https://skillicons.dev)
+
+</div>
+
+---
+
+# 📱 **Pantrio – Pantry Manager App**
+Aplicativo Mobile em Flutter para ajudar pessoas a **organizar sua despensa**, evitar desperdício e manter controle prático de tudo que possuem em casa.
+
+👉 Repositório:  
+🔗 **https://github.com/geniilsonfernandes/pantrio**
+
+## ✨ Visão Geral  
+O **Pantrio** é um app mobile moderno, rápido e intuitivo, projetado para que qualquer pessoa consiga visualizar, cadastrar e gerenciar itens da sua despensa doméstica sem complicação.
+
+Ele surgiu da necessidade de ter um app realmente simples, bonito e útil para acompanhar produtos, evitar compras duplicadas e saber o que está perto de vencer.
+
+## 📝 Blog & Conteúdo  
+Alguns textos que escrevi recentemente:
+
+- [**🔹 Trabalhando e otimizando testes com mocks de componentes**](https://dev.to/geniilsonfernandes/trabalhando-e-otimizando-t-testes-com-mocks-de-componentes-1ckm)  
 - [**🔹 Como testar hooks com vitest**](https://dev.to/geniilsonfernandes/como-testar-hooks-com-vitest-3149)
 
-*Keep learning...*
+---
+
+<p align="center">
+  <em>Keep learning, keep building.</em> 🚀
+</p>
