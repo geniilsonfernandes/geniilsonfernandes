@@ -47,25 +47,6 @@ Alguns textos que escrevi recentemente:
 * [**🔹 Trabalhando e otimizando testes com mocks de componentes**](https://dev.to/geniilsonfernandes/trabalhando-e-otimizando-t-testes-com-mocks-de-componentes-1ckm)
 * [**🔹 Como testar hooks com vitest**](https://dev.to/geniilsonfernandes/como-testar-hooks-com-vitest-3149)
 
----
-
-🎥 **Canal no YouTube**
-
-Estou produzindo vídeos para ajudar outros desenvolvedores. Aqui estão alguns vídeos do canal:
-
-1. **Como estruturar um app Flutter de forma escalável** — Uma walkthrough prática mostrando arquitetura limpa, organização de pastas e padrões para escalar projetos Flutter.
-
-   ▶️ [https://youtube.com/watch?v=video1](https://youtube.com/watch?v=video1)
-
-2. **Riverpod na prática: do básico ao avançado** — Demonstração de como usar Riverpod para gerenciar estado em apps reais, com exemplos de testes e persistência.
-
-   ▶️ [https://youtube.com/watch?v=video2](https://youtube.com/watch?v=video2)
-
-3. **Criando interfaces intuitivas com Flutter** — Dicas de design, acessibilidade e animações sutis para melhorar a UX.
-
-   ▶️ [https://youtube.com/watch?v=video3](https://youtube.com/watch?v=video3)
-
----
 
 <p align="center">
   <em>Keep learning, keep building.</em> 🚀
