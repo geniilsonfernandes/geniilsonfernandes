@@ -1,23 +1,30 @@
-<h2 align="center">✌️ Olá, meu nome é Genilson Fernandes — Bem-vindo ao meu GitHub</h2>
+```dart
+class GenilsonFernandes {
+  final String greeting =
+      "✌️ Olá, meu nome é Genilson Fernandes — Bem-vindo ao meu GitHub";
 
-<p align="center">
-  Desenvolvedor <strong>Front-End & Mobile Pleno</strong> — apaixonado por criar interfaces funcionais, acessíveis e intuitivas.
-</p>
+  final String role = "Desenvolvedor Front-End & Mobile Pleno";
 
----
+  final String passion =
+      "Apaixonado por criar interfaces funcionais, acessíveis e intuitivas";
 
-## 👨‍💻 Sobre mim  
+  const GenilsonFernandes();
+}
+```
+
+### 👨‍💻 Sobre mim
+
 Desenvolvedor Front-End & Mobile com background em design, sempre focado em criar experiências digitais que resolvem problemas reais e entregam valor para as pessoas.
 
-💼 Atuei como Desenvolvedor Pleno na **Beuni Tech** e **Teamsoft**, construindo funcionalidades, definindo padrões de arquitetura, escrevendo testes e contribuindo para produtos robustos e escaláveis.  
-🎨 Minha formação em design me ajuda a criar interfaces consistentes, acessíveis e focadas no usuário.  
+💼 Atuei como Desenvolvedor Pleno na **Beuni Tech** e **Teamsoft**, construindo funcionalidades, definindo padrões de arquitetura, escrevendo testes e contribuindo para produtos robustos e escaláveis.
+🎨 Minha formação em design me ajuda a criar interfaces consistentes, acessíveis e focadas no usuário.
 🚀 Estou sempre estudando novas tecnologias, boas práticas, padrões de projeto e arquiteturas modernas.
 
 ---
 
-## 🧰 Tecnologias e Ferramentas
+### 🧰 Tecnologias e Ferramentas
 
-<div align="center">
+<div >
 
 [![](https://skillicons.dev/icons?i=flutter,react,nextjs,ts,js,go,nestjs,postgres,mongo,docker,git,graphql,jest,figma,markdown)](https://skillicons.dev)
 
@@ -25,22 +32,38 @@ Desenvolvedor Front-End & Mobile com background em design, sempre focado em cria
 
 ---
 
-# 📱 **Pantrio – Pantry Manager App**
+### 📱 **Pantrio – Pantry Manager App**
+
 Aplicativo Mobile em Flutter para ajudar pessoas a **organizar sua despensa**, evitar desperdício e manter controle prático de tudo que possuem em casa.
 
-👉 Repositório:  
-🔗 **https://github.com/geniilsonfernandes/pantrio**
+👉 Repositório:
+🔗 **[https://github.com/geniilsonfernandes/pantrio](https://github.com/geniilsonfernandes/pantrio)**
 
-## ✨ Visão Geral  
-O **Pantrio** é um app mobile moderno, rápido e intuitivo, projetado para que qualquer pessoa consiga visualizar, cadastrar e gerenciar itens da sua despensa doméstica sem complicação.
 
-Ele surgiu da necessidade de ter um app realmente simples, bonito e útil para acompanhar produtos, evitar compras duplicadas e saber o que está perto de vencer.
+## 📝 Blog & Conteúdo
 
-## 📝 Blog & Conteúdo  
 Alguns textos que escrevi recentemente:
 
-- [**🔹 Trabalhando e otimizando testes com mocks de componentes**](https://dev.to/geniilsonfernandes/trabalhando-e-otimizando-t-testes-com-mocks-de-componentes-1ckm)  
-- [**🔹 Como testar hooks com vitest**](https://dev.to/geniilsonfernandes/como-testar-hooks-com-vitest-3149)
+* [**🔹 Trabalhando e otimizando testes com mocks de componentes**](https://dev.to/geniilsonfernandes/trabalhando-e-otimizando-t-testes-com-mocks-de-componentes-1ckm)
+* [**🔹 Como testar hooks com vitest**](https://dev.to/geniilsonfernandes/como-testar-hooks-com-vitest-3149)
+
+---
+
+🎥 **Canal no YouTube**
+
+Estou produzindo vídeos para ajudar outros desenvolvedores. Aqui estão alguns vídeos do canal:
+
+1. **Como estruturar um app Flutter de forma escalável** — Uma walkthrough prática mostrando arquitetura limpa, organização de pastas e padrões para escalar projetos Flutter.
+
+   ▶️ [https://youtube.com/watch?v=video1](https://youtube.com/watch?v=video1)
+
+2. **Riverpod na prática: do básico ao avançado** — Demonstração de como usar Riverpod para gerenciar estado em apps reais, com exemplos de testes e persistência.
+
+   ▶️ [https://youtube.com/watch?v=video2](https://youtube.com/watch?v=video2)
+
+3. **Criando interfaces intuitivas com Flutter** — Dicas de design, acessibilidade e animações sutis para melhorar a UX.
+
+   ▶️ [https://youtube.com/watch?v=video3](https://youtube.com/watch?v=video3)
 
 ---
 
